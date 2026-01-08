@@ -28,8 +28,8 @@
 		<string name="adopted_storage">Memoria adoptada</string>
 		<string name="twrp_header">Proyecto Team Win Recovery</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
-		<string name="cpu_temp">CPU: %tw_cpu_temp% °C</string>
-		<string name="battery_pct">Batería: %tw_battery%</string>
+		<string name="cpu_temp">CPU: %tw_cpu_temp%°C</string>
+		<string name="battery_pct">%tw_battery%</string>
 		<string name="sort_by_name">Ordenar por Nombre</string>
 		<string name="sort_by_date">Ordenar por Fecha</string>
 		<string name="sort_by_size">Ordenar por Tamaño</string>

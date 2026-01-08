@@ -30,8 +30,8 @@
 		<string name="adopted_data">Adopted Data</string>
 		<string name="adopted_storage">Adopted Storage</string>
 		<!-- GUI XML strings -->
-		<string name="cpu_temp">Процесор: %tw_cpu_temp% &#xB0;C</string>
-		<string name="battery_pct">Батарея: %tw_battery%</string>
+		<string name="cpu_temp">Процесор: %tw_cpu_temp%&#xB0;C</string>
+		<string name="battery_pct">%tw_battery%</string>
 		<string name="sort_by_name">Сортувати за назвою</string>
 		<string name="sort_by_date">Сортувати по даті</string>
 		<string name="sort_by_size">Сортувати за розміром</string>

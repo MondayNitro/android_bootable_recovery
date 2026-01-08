@@ -35,8 +35,8 @@
 		<!-- GUI XML strings -->
 		<string name="twrp_header">Team Win Recovery Project</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
-		<string name="cpu_temp">ЦП: %tw_cpu_temp% °C</string>
-		<string name="battery_pct">Батарея: %tw_battery%</string>
+		<string name="cpu_temp">ЦП: %tw_cpu_temp%°C</string>
+		<string name="battery_pct">%tw_battery%</string>
 		<string name="sort_by_name">Сорт.по имени</string>
 		<string name="sort_by_date">Сорт.по дате</string>
 		<string name="sort_by_size">Сорт.по размеру</string>

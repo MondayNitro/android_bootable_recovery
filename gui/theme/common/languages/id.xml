@@ -35,8 +35,8 @@
 		<!-- String XML GUI -->
 		<string name="twrp_header">Team Win Recovery Project</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
-		<string name="cpu_temp">CPU: %tw_cpu_temp% &#xB0;C</string>
-		<string name="battery_pct">Baterai: %tw_battery%</string>
+		<string name="cpu_temp">CPU: %tw_cpu_temp%&#xB0;C</string>
+		<string name="battery_pct">%tw_battery%</string>
 		<string name="sort_by_name">Urut Sesuai Nama</string>
 		<string name="sort_by_date">Urut Sesuai Tanggal</string>
 		<string name="sort_by_size">Urut Sesuai Ukuran</string>

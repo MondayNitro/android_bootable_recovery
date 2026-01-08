@@ -34,8 +34,8 @@
 		<!-- GUI XML strings -->
 		<string name="twrp_header">Team Win Recovery Project</string>
 		<string name="twrp_watch_header">TWRP %tw_version%</string>
-		<string name="cpu_temp">CPU: %tw_cpu_temp% °C</string>
-		<string name="battery_pct">Akkumulátor: %tw_battery%</string>
+		<string name="cpu_temp">CPU: %tw_cpu_temp%°C</string>
+		<string name="battery_pct">%tw_battery%</string>
 		<string name="sort_by_name">Rendezés név szerint</string>
 		<string name="sort_by_date">Rendezés dátum szerint</string>
 		<string name="sort_by_size">Rendezés méret szerint</string>
